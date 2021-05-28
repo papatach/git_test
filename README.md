@@ -1,1 +1,1 @@
-Readme file for git_test repository.
+This is ursa's first git project.
